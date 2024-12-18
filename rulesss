@@ -46,47 +46,25 @@ disable-geoip-db-auto-update = true
 udp-policy-not-supported-behaviour = reject
 
 [Proxy Group]
-Eee = select, 🇭🇰 香港节点, 🇺🇸 美国节点, 🇯🇵 日本节点, 🇸🇬 新加坡节点, ✈️ 主力机场, 🚀 备用机场, icon-url=https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/surge_2.png
-Apple = select, DIRECT,Eee, 🇭🇰 香港节点, 🇺🇸 美国节点, 🇯🇵 日本节点, 🇸🇬 新加坡节点, icon-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_Arcade.png
-AI = select, Eee,  🇭🇰 香港节点, 🇺🇸 美国节点, 🇯🇵 日本节点, 🇸🇬 新加坡节点, icon-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/ChatGPT5.png
-Telegram = select, Eee, 🇭🇰 香港节点, 🇺🇸 美国节点, 🇯🇵 日本节点, 🇸🇬 新加坡节点, icon-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/erdongchanyo/Telegram.png
-Netflix = select,Eee, 🇭🇰 香港节点, 🇺🇸 美国节点, 🇯🇵 日本节点,  🇸🇬 新加坡节点, icon-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netflix.png
-Disney+ = select, Eee, 🇭🇰 香港节点, 🇺🇸 美国节点, 🇯🇵 日本节点,  🇸🇬 新加坡节点, icon-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Disney.png
-YouTube = select, Eee, 🇭🇰 香港节点, 🇺🇸 美国节点, 🇯🇵 日本节点,  🇸🇬 新加坡节点, icon-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/youtube.png
-Spotify = select, Eee, 🇭🇰 香港节点, 🇺🇸 美国节点, 🇯🇵 日本节点,  🇸🇬 新加坡节点, icon-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/spotify.png
-TikTok = select,Eee, 🇭🇰 香港节点, 🇺🇸 美国节点, 🇯🇵 日本节点,   🇸🇬 新加坡节点, icon-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/tiktok.png
-BiliBili = select, DIRECT, 🇭🇰 香港节点, 🇨🇳 台湾节点, icon-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/bilibili.png
-Microsoft = select, DIRECT, Eee, 🇭🇰 香港节点, 🇺🇸 美国节点, 🇯🇵 日本节点, 🇸🇬 新加坡节点, icon-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Windows_11.png
-Google = select, Eee, 🇭🇰 香港节点, 🇺🇸 美国节点, 🇯🇵 日本节点,  🇸🇬 新加坡节点, icon-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google_Search.png
-
-
+Eee = select, 🇭🇰 HK, 🇺🇸 US,🇯🇵 JP,🇨🇳 TW ,🇸🇬 SG, icon-url=https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/surge_2.png
+Apple = select, DIRECT,Eee, 🇭🇰 HK, 🇺🇸 US,🇯🇵 JP,🇨🇳 TW ,🇸🇬 SG, icon-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Apple_Arcade.png
+AI = select, Eee,🇭🇰 HK, 🇺🇸 US,🇯🇵 JP,🇨🇳 TW ,🇸🇬 SG, icon-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/chxm1023/ChatGPT5.png
+Telegram = select, Eee, 🇭🇰 HK, 🇺🇸 US,🇯🇵 JP,🇨🇳 TW ,🇸🇬 SG, icon-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/erdongchanyo/Telegram.png
+Netflix = select,Eee,🇭🇰 HK, 🇺🇸 US,🇯🇵 JP,🇨🇳 TW ,🇸🇬 SG, icon-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netflix.png
+Disney+ = select, Eee, 🇭🇰 HK, 🇺🇸 US,🇯🇵 JP,🇨🇳 TW ,🇸🇬 SG, icon-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Disney.png
+YouTube = select, Eee, 🇭🇰 HK, 🇺🇸 US,🇯🇵 JP,🇨🇳 TW ,🇸🇬 SG, icon-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/youtube.png
+Spotify = select, Eee,🇭🇰 HK, 🇺🇸 US,🇯🇵 JP,🇨🇳 TW ,🇸🇬 SG, icon-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/spotify.png
+TikTok = select,Eee, 🇭🇰 HK, 🇺🇸 US,🇯🇵 JP,🇨🇳 TW ,🇸🇬 SG, icon-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/tiktok.png
+BiliBili = select, DIRECT, 🇭🇰 HK, 🇨🇳 TW, icon-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/bilibili.png
+Microsoft = select, DIRECT, Eee, 🇭🇰 HK, 🇺🇸 US,🇯🇵 JP,🇨🇳 TW ,🇸🇬 SG, icon-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Windows_11.png
+Google = select, Eee, 🇭🇰 HK, 🇺🇸 US,🇯🇵 JP,🇨🇳 TW ,🇸🇬 SG, icon-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google_Search.png
 # > 外部节点
-🇭🇰 香港节点 = select, 主力香港节点, 备用香港节点, update-interval=0, no-alert=0, hidden=0, include-all-proxies=0, icon-url=https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Hong_Kong.png
+🇭🇰 HK = smart, policy-regex-filter=(🇭🇰)|(香港)|(Hong)|(HK), no-alert=0, hidden=0, include-all-proxies=1
+🇸🇬 SG= smart, policy-regex-filter=(🇸🇬)|(新加坡)|(Singapore)|(SG), no-alert=0, hidden=0, include-all-proxies=1
+🇨🇳 TW = smart, policy-regex-filter=(🇨🇳)|(台湾)|(Tai)|(TW), no-alert=0, hidden=0, include-all-proxies=1
+🇯🇵 JP = smart, policy-regex-filter=(🇯🇵)|(日本)|(Japan)|(JP), no-alert=0, hidden=0, include-all-proxies=1
+🇺🇸 US = smart, policy-regex-filter=(🇺🇸)|(美国)|(States)|(US), no-alert=0, hidden=0, include-all-proxies=1
 
-🇺🇸 美国节点 = select, 主力美国节点, 备用美国节点, update-interval=0, no-alert=0, hidden=0, include-all-proxies=0, icon-url=https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/United_States.png
-
-🇯🇵 日本节点 = select, 主力日本节点, 备用日本节点, update-interval=0, no-alert=0, hidden=0, include-all-proxies=0, icon-url=https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Japan.png
-
-🇨🇳 台湾节点 = select, 主力台湾节点, 备用台湾节点, update-interval=0, no-alert=0, hidden=0, include-all-proxies=0, icon-url=https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/China.png
-
-🇸🇬 新加坡节点 = select, 主力新加坡节点, 备用新加坡节点, update-interval=0, no-alert=0, hidden=0, include-all-proxies=0, icon-url=https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Singapore.png
-
-✈️ 主力机场 = select, policy-path=你的订阅地址, update-interval=0, no-alert=0, hidden=0, include-all-proxies=0, icon-url=https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Final.png
-
-🚀 备用机场 = select, policy-path=你的订阅地址, update-interval=0, no-alert=0, hidden=0, include-all-proxies=0, include-all-proxies=0, icon-url=https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Streaming.png
-
-主力香港节点 = smart, no-alert=0, hidden=1, include-all-proxies=0, include-other-group=✈️ 主力机场, policy-regex-filter=(🇭🇰)|(香港)|(Hong)|(HK)
-主力美国节点 = smart, no-alert=0, hidden=1, include-all-proxies=0, include-other-group=✈️ 主力机场, policy-regex-filter=(🇺🇸)|(美国)|(States)|(US)
-主力日本节点 = smart, no-alert=0, hidden=1, include-all-proxies=0, include-other-group=✈️ 主力机场, policy-regex-filter=(🇯🇵)|(日本)|(Japan)|(JP)
-主力台湾节点 = smart, no-alert=0, hidden=1, include-all-proxies=0, include-other-group=✈️ 主力机场, policy-regex-filter=(🇨🇳)|(台湾)|(Tai)|(TW)
-主力韩国节点 = smart, no-alert=0, hidden=1, include-all-proxies=0, include-other-group=✈️ 主力机场, policy-regex-filter=(🇰🇷)|(韩国)|(Korea)|(KR)
-主力新加坡节点 = smart, no-alert=0, hidden=1, include-all-proxies=0, include-other-group=✈️ 主力机场, policy-regex-filter=(🇸🇬)|(新加坡)|(Singapore)|(SG)
-备用香港节点 = smart, no-alert=0, hidden=1, include-all-proxies=0, include-other-group=🚀 备用机场, policy-regex-filter=(🇭🇰)|(香港)|(Hong)|(HK)
-备用美国节点 = smart, no-alert=0, hidden=1, include-all-proxies=0, include-other-group=🚀 备用机场, policy-regex-filter=(🇺🇸)|(美国)|(States)|(US)
-备用日本节点 = smart, no-alert=0, hidden=1, include-all-proxies=0, include-other-group=🚀 备用机场, policy-regex-filter=(🇯🇵)|(日本)|(Japan)|(JP)
-备用台湾节点 = smart, no-alert=0, hidden=1, include-all-proxies=0, include-other-group=🚀 备用机场, policy-regex-filter=(🇨🇳)|(台湾)|(Tai)|(TW)
-备用韩国节点 = smart, no-alert=0, hidden=1, include-all-proxies=0, include-other-group=🚀 备用机场, policy-regex-filter=(🇰🇷)|(韩国)|(Korea)|(KR)
-备用新加坡节点 = smart, no-alert=0, hidden=1, include-all-proxies=0, include-other-group=🚀 备用机场, policy-regex-filter=(🇸🇬)|(新加坡)|(Singapore)|(SG)
 
 [Rule]
 # > Anti-AD
